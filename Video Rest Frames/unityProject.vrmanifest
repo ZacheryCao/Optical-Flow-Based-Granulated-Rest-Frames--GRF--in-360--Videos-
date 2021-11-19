@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.videorestframes.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\IRLab\\Documents\\Unity Projects\\Video GRF\\Video Rest Frames\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Video Rest Frames [Testing]"
+        }
+      }
+    }
+  ]
+}
