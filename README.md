@@ -17,9 +17,11 @@ https://user-images.githubusercontent.com/25666019/142665487-bd5edbd6-d16b-483c-
 
 ## Run the Scene
 
-Run the scene GRF.
+Put all calculated optical flow csv files (named in the format "horizontal_##(horizontal angle in degrees)_vertical_##(vertical angle in degrees)") in a folder with the name of your video the move that folder to ./Assets/Resources. Open the scene GRF. Update the videos in the script "Video Controller" attached to the videoclip in the Hierarchy. Run the scene.
 
 https://user-images.githubusercontent.com/25666019/142672422-9230eb50-618d-4aad-97eb-480f68b7c587.mp4
+
+You also can change the size and density of the GRF via the script "Rest Frames Generator" attached to the RFGenerator under Player in the Hierarchy. The variable "Radius" in the script is used to change the distance between the viewport and the rest frames.
 
 
 
