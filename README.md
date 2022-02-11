@@ -1,7 +1,7 @@
 # Optical-flow-triggered-granulated-rest-frames-in-360-degree-video
 Research Project (Unity): Optical-flow-triggered-granulated-rest-frames-in-360-degree-video
 
-## Optical Flow Pre-calculate (Optical_FLow(Net2)_v4.ipynb in ./VideoPreprocess)
+## Optical Flow Pre-calculate
 ### Equirectangular view to perspective view
 Class Equirec2Perpec: Function: GetPerspective(FOV, THETA, PHI, height, width).
 FOV: the field of view of each eye in the headset.
